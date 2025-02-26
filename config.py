@@ -5,7 +5,7 @@ GOOGLE_SHEETS_CREDENTIALS = {
   "project_id": "",
   "private_key_id": "",
   "private_key": "",
-  "client_email": "telegram-bot-service-account@neshk-bot-sheet.iam.gserviceaccount.com",
+  "client_email": "",
   "client_id": "",
   "auth_uri": "",
   "token_uri": "",
